@@ -1,0 +1,11 @@
+2019-01-30 12:12:29,027 [http-nio-8080-exec-4] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-01-30 13:07:32,523 [http-nio-8080-exec-4] DEBUG -[RoleServiceImpl.java:49]- 新增角色操作员
+2019-01-30 13:08:34,069 [http-nio-8080-exec-2] DEBUG -[UserServiceImpl.java:38]- 新增用户muwenjie
+2019-01-30 15:13:37,885 [http-nio-8080-exec-1] DEBUG -[FileServiceImpl.java:59]- 上传文件d:/files/2019/01/30/fe24bf49e62241190c1ff1b13692bc89.txt
+2019-01-30 15:15:26,892 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:47]- 生成java model：SysUser模板
+2019-01-30 15:15:26,907 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:129]- 生成java dao：SysUser模板
+2019-01-30 15:15:26,947 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:243]- 生成controller：SysUser模板
+2019-01-30 15:15:26,971 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:259]- 生成查询页面：SysUser模板
+2019-01-30 15:15:26,984 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:265]- 生成添加页面：SysUser模板
+2019-01-30 15:15:26,993 [http-nio-8080-exec-10] DEBUG -[TemplateUtil.java:272]- 生成修改页面：SysUser模板
+2019-01-30 15:17:52,230 [http-nio-8080-exec-1] INFO  -[ExcelController.java:42]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
